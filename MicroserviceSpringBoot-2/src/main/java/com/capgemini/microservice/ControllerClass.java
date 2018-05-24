@@ -12,7 +12,7 @@ public class ControllerClass {
 	public String service1() {
 		
 		return "HelloCapgemini";
-		//this is first controller
+		//this is first microservice controller 
 	}
 
 }
