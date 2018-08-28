@@ -14,7 +14,7 @@ import com.capgemini.cache.model.User;
 @RequestMapping(value="/rest/users")
 public class CacheController {
 	
-	
+	//this is class using the load user details this is  main controller of this application
 	@Autowired
 	UserCache userCache;
 	
